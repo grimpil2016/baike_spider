@@ -1,3 +1,6 @@
+# change the default language of the repository
+*.rb linguist-language=Python
+
 # Auto detect text files and perform LF normalization
 * text=auto
 
